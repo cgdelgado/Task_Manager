@@ -1,0 +1,90 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("../img/typewriter.jpg");
+	background-size: cover;	
+}
+
+tbody{
+	background-color: white;
+	opacity: 0.9;
+}
+
+h1, h2{
+	color: #294546;
+}
+
+#welcomeTxt {
+	font-size: 80px;
+	color: #745948;	
+}
+#iconSmile {
+	font-size: 67px;
+}
+#indexContainer{
+	margin-top: 365px;
+	text-align: center;
+}
+
+.indexlink {	
+	font-size: 25px;
+	padding-right: 51px;
+    padding-left: 28px;
+    color: #2E4F37;	  
+    text-decoration: none;  
+}
+a:hover{
+	color: #51825E;
+	text-decoration: none;  
+}
+#question{
+	margin-top:38px;	
+}
+#question h2{
+	color: #294546;
+}
+#containerList{
+	margin-top:70px;
+}
+
+h3{
+	color: white;
+}
+.tableHead{
+	background-color:#a6d0bf
+}
+#showLink{
+	color:#cd9e5e !important;
+}
+#deleteLink{
+	color:#721c24 !important;
+}
+#checkIcon{
+	color:#37ff4c !important;
+}
+#newTask{
+	padding-left: 150px;
+	color: #cd9e5e;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.subcontainer{
+	min-width: 60%;
+    max-width: 60%;
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 1px solid white;
+    background-color: white;
+    opacity: 0.85;
+    border-radius: 5px;
+}
+
+.form-group{
+	max-width: 470px;
+	margin-left: 100px;
+}
+.btn-primary{
+	margin-right: 50px !important;
+	background-color: #ca9a5b !important;
+	border-color: #ca9a5b !important;
+}
